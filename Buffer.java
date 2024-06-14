@@ -9,6 +9,8 @@ str.replace(3,7,"done");
 System.out.println(str);
 str.deleteCharAt(2);
 System.out.println(str);
+str.reverse();
+System.out.pritnln(str);
 }
 }
 
