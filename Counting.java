@@ -1,7 +1,7 @@
 class Counting {
 public static void main(String []args)
 {
- String str = "The string where the word the present more than once. ";
+ String str = "The string where the word the present more than once.";
 String word="the";
 
     String a[] = str.split(" ");
